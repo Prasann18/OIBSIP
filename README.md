@@ -1,2 +1,2 @@
 # OIBSIP
-OASIS Infobyte internship projects
+OASIS Infobyte internship projects created by Prasann Verma
